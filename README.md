@@ -1,4 +1,5 @@
 # Zika Virus Geospatial Analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsolares/R-Zika_Virus_Geospatial_Analysis/master)
 
 This is a project using ‘R’ language developed by Felipe Solares da Silva to build interactive graphs and maps to analyze Zika virus occurences in Brazilian territory in 2017 and 2018.
 
